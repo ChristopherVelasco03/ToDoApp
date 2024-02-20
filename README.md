@@ -4,6 +4,8 @@ GithubPages: https://christophervelasco03.github.io/ToDoApp/
 
 ¡Bienvenido/a al impresionante repositorio ToDoAPP! 🌟 Una aplicación de lista de tareas creada con amor usando Vite y Vue.js. Con ToDoAPP, gestionar tus tareas se vuelve una experiencia emocionante y fácil. Aquí tienes la información esencial para empezar y contribuir a este proyecto increíble.
 
+![image](https://github.com/ChristopherVelasco03/ToDoApp/assets/155390541/71d714b4-e21b-42d7-ad01-2f91609c11bd)
+
 ## Características Destacadas 🌈
 
 - **Ingresar Tarea**: ✍️ Agrega nuevas tareas fácilmente.
